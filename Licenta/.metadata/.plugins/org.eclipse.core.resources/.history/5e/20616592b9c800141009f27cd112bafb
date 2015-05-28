@@ -1,0 +1,5 @@
+package ro.licenta.customer.models;
+
+public class CustomerResponse {
+
+}

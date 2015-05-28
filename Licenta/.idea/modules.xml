@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/licenta-capi/licenta-capi.iml" filepath="$PROJECT_DIR$/licenta-capi/licenta-capi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/licenta-model/licenta-model.iml" filepath="$PROJECT_DIR$/licenta-model/licenta-model.iml" />
+      <module fileurl="file://$PROJECT_DIR$/licenta-parent.iml" filepath="$PROJECT_DIR$/licenta-parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/licenta-persistence/licenta-persistence.iml" filepath="$PROJECT_DIR$/licenta-persistence/licenta-persistence.iml" />
+      <module fileurl="file://$PROJECT_DIR$/licenta-service/licenta-service.iml" filepath="$PROJECT_DIR$/licenta-service/licenta-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/service/service.iml" filepath="$PROJECT_DIR$/service/service.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,12 @@
+package ro.licenta.customer.models;
+
+public class CustomerResponse {
+	
+	private String clientName;
+	private String clientRole;
+	
+	public CustomerResponse() {
+		
+	}
+
+}

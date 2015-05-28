@@ -1,0 +1,6 @@
+package licenta.rest.controller;
+
+@Path("/customer")
+public class CustomerController {
+
+}

@@ -1,0 +1,5 @@
+package licenta.rest.controller;
+
+public class CustomerController {
+
+}
