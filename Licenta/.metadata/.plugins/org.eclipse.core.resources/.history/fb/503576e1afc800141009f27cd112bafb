@@ -1,8 +1,0 @@
-package licenta.rest.controller;
-
-import javax.ws.rs.Path;
-
-@Path("/customer")
-public class CustomerController {
-
-}
