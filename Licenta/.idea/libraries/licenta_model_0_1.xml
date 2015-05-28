@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="licenta-model-0.1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/licenta-model/target/licenta-model-0.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
